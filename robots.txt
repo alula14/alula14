@@ -1,4 +1,6 @@
-User-agent: *
-Allow: /
+User-Agent: Googlebot
+Disallow: /deep/
+Allow: /deep/*.js
+Allow: /deep/*.css
 
 Sitemap: http://allx.us.to/sitemap.xml
