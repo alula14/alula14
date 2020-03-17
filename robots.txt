@@ -1,5 +1,5 @@
 User-Agent: Googlebot
-Disallow: /deep/
+Allow: /deep/
 Allow: /deep/*.js
 Allow: /deep/*.css
 
